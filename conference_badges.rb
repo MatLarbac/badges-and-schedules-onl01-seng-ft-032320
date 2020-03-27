@@ -1,7 +1,7 @@
-# Write your code here.
 def badge_maker(name)
   return "Hello, my name is #{name}."
-end
+end# Write your code here.
+
 
 def batch_badge_creator(speakers)
   badge_messages = []
