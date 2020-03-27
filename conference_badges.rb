@@ -5,7 +5,7 @@ end# Write your code here.
 
 def batch_badge_creator(speakers)
   badge_messages = []
-  speakers.each do |badge|
+  speakers.each do |name|
     badge_messages << "Hello, my name is #{name}."
   end
   badge_messages
