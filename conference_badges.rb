@@ -6,7 +6,7 @@ end
 def batch_badge_creator(speakers)
   badge = []
   speakers.each do |badge|
-    badge << (badge_maker(name))
+    badge << "Hello, my name is #{name}."
   end
   badge
 end
